@@ -3,9 +3,9 @@ var fs = Npm.require('fs');
 
 Package.describe({
 	summary: 'Famo.us integration in meteor',
-	name: 'mjn:famous',
+	name: 'dcsan:famous',
 	version: '0.3.0_5',
-	git: 'https://github.com/mj-networks/famous.git'
+	git: 'https://github.com/dcsan/famous-1.git'
 });
 
 Package.onUse(function (api) {
